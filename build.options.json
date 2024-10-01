@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\Lautaro\\AppData\\Local\\Arduino15\\libraries",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Users\\Lautaro\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Lautaro\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\Lautaro\\AppData\\Local\\Temp\\.arduinoIDE-unsaved2024830-5772-6e4v8q.dayk4\\sketch_sep30a"
+}
